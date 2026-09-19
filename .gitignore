@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Playwright failure artifacts (the HTML report is versioned for evaluation)
+test-results/
