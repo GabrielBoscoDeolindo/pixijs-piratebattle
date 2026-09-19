@@ -5,6 +5,8 @@ game developer challenge. React owns the screens and HUD; PixiJS renders and
 updates the arena. The game runs entirely in the browser, including the mocked
 ranking and match-history API.
 
+**Live demo:** [pixijs-piratebattle.vercel.app](https://pixijs-piratebattle.vercel.app/)
+
 ## Running locally
 
 Requirements: Node.js 20 or newer and npm. There are no environment variables
